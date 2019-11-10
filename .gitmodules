@@ -1,0 +1,3 @@
+[submodule "Dependencies/SpriteMovement"]
+	path = Dependencies/SpriteMovement
+	url = https://github.com/Alexsandro-Vitor/SpriteMovement.git
